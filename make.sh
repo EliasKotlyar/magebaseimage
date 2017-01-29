@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build -t eliaskotlyar/magebasecontainer:latest ./
+docker build -t eliaskotlyar/magebaseimage:latest ./
